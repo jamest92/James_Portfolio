@@ -1,12 +1,11 @@
 # James_Portfolio
-
+### please click on project title to access project file
 
 # [Project 1: Netflix Stock Data Visualization](https://github.com/jamest92/Netflix-Stock-Capstone-Project)
 * Pulled financial data off Yahoo Finance for NFLX (Netflix) and loaded into excel csv.
 * Created data basic visualization for stock price distribution; violin plot
 * Analyzed trends from Revenues vs. Earnings
 * Compared trends per quarter, and against the DJIA
-
 
 # [Project 2: Titanic Binary Classification Analysis](https://github.com/jamest92/titanic-classification/blob/main/titanic-classification.ipynb)
 * For this dataset, I trained multiple Machine Learning models to predicted survivability of passengers on the Titanic.
@@ -21,5 +20,7 @@
 * Instantiated scatterplots and histograms to understand underlying variables
 * Feature engineered categorical variables in the timeseries dataset
 * Tuned algorithm hyperparameters to use parameters
-* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ![](/images/Bulldozer-feature-importance.png)
+
+# Project 4: Dog Breed Multi-Class Classification
+* Current project: using 10000+ images of 120 different dog breeds to create a machine learning classifier that can accurately predict breeds from a dog's picture 
