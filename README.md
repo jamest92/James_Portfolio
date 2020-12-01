@@ -1,5 +1,5 @@
 # James_Portfolio
-### please click on project title to access project file
+>please click on project title to access project file
 
 # [Project 1: Netflix Stock Data Visualization](https://github.com/jamest92/Netflix-Stock-Capstone-Project)
 * Pulled financial data off Yahoo Finance for NFLX (Netflix) and loaded into excel csv.
