@@ -16,6 +16,10 @@
 * created a robust Random Forest Classifer model
 ![](/images/Titanic-Corr.png)
 
-# Project 3: Bulldozer Price Regression
-* 
+# [Project 3: Bulldozer Price Regression](https://github.com/jamest92/Bulldozer-Price-Regression/blob/main/end-to-end-bluebook-bulldozer-price-regression-full.ipynb)
+* Trained a machine learning model to predict future sale prices using a massive dataset (400K+)
+* Instantiated scatterplots and histograms to understand underlying variables
+* Feature engineered categorical variables in the timeseries dataset
+* Tuned algorithm hyperparameters to use parameters
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ![](/images/Bulldozer-feature-importance.png)
