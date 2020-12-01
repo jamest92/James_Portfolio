@@ -6,7 +6,7 @@
 * Created data basic visualization for stock price distribution; violin plot
 * Analyzed trends from Revenues vs. Earnings
 * Compared trends per quarter, and against the DJIA
-[](https://github.com/jamest92/James_Portfolio/blob/main/images/Netflix-capstone-violinplot.png)
+![](https://github.com/jamest92/James_Portfolio/blob/main/images/Netflix-capstone-violinplot.png)
 
 # [Project 2: Titanic Binary Classification Analysis](https://github.com/jamest92/titanic-classification/blob/main/titanic-classification.ipynb)
 * For this dataset, I trained multiple Machine Learning models to predicted survivability of passengers on the Titanic.
